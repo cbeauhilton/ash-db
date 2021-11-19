@@ -1,4 +1,4 @@
-Databases last updated: Fri Nov 19 02:01:53 UTC 2021. 
+Databases last updated: Fri Nov 19 02:36:12 UTC 2021. 
 
 Available [here](https://github.com/cbeauhilton/ash-db/releases).
 
@@ -12,4 +12,4 @@ Current number of items in db:
 [{"count(*)": 93309}]
 
 Current number of scraped items in db:
-[{"count(*)": 86549}]
+[{"count(*)": 86583}]
