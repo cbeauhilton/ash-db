@@ -1,4 +1,4 @@
-Databases last updated: Thu Apr 21 05:17:52 UTC 2022. 
+Databases last updated: Thu Apr 21 05:39:04 UTC 2022. 
 
 Available [here](https://github.com/cbeauhilton/ash-db/releases).
 
