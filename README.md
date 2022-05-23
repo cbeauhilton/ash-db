@@ -1,14 +1,14 @@
-Databases last updated: Mon May 23 09:45:34 UTC 2022. 
+Databases last updated: Mon May 23 13:09:57 UTC 2022. 
 
 Available [here](https://github.com/cbeauhilton/ash-db/releases).
 
 
 42M	abstracts_small.db
 
-403M	abstracts_full.db
+404M	abstracts_full.db
 
 Current number of items in db:
 [{"count(*)": 96904}]
 
 Current number of scraped items in db:
-[{"count(*)": 48486}]
+[{"count(*)": 48687}]
